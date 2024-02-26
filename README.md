@@ -22,7 +22,7 @@ Passionate software engineering student specializing in backend development, par
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/maven-icon-1152x2048-p475j6s5.png"/>
+<img align="left" alt="Maven" width="20px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/maven-icon-1152x2048-p475j6s5.png"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.svgporn.com/logos/github-icon.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.svgporn.com/logos/gradle.svg" />
